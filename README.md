@@ -1,0 +1,3 @@
+# rmoji
+
+Rofi emoji selector
