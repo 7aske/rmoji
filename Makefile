@@ -1,4 +1,4 @@
-emoji_dir=~/.local/share/dmoji
+emoji_dir=~/.local/share/rmoji
 bin=~/.local/bin
 
 install:
